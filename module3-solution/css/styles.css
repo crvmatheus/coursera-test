@@ -1,0 +1,14 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.long-text {
+  height: 1000px;
+  background-color: lightgray;
+  padding: 10px 10px 10px 10px;
+  margin-bottom: 15px;
+  color: black;
+}
